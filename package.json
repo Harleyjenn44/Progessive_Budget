@@ -1,0 +1,23 @@
+{
+  "name": "progessive_budget",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Harleyjenn44/Progessive_Budget.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Harleyjenn44/Progessive_Budget/issues"
+  },
+  "homepage": "https://github.com/Harleyjenn44/Progessive_Budget#readme",
+  "dependencies": {
+    "mongoose": "^5.9.13"
+  }
+}
